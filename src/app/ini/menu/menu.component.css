@@ -1,0 +1,14 @@
+.navbar-brand {
+    margin-right: auto;
+    /* Empuja el logo hacia la izquierda */
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    /* Centra el menú */
+}
+
+.navbar-toggler {
+    border: none;
+    /* Quita el borde del botón */
+}
